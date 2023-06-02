@@ -19,6 +19,7 @@
         <img src="https://img.shields.io/github/followers/omkarsw2?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
+  
 <br>
 
 
@@ -70,5 +71,9 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarSw2&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="vivekgoswami934" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarSw2&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="vivekgoswami934" height="139" />
-</p>
+    
+</p> 
+  <img   src="https://streak-stats.demolab.com/?user=omkarSw2&theme=dark&github-readme-streak-stats.herokuapp.com"
+              alt="omkar-states"/>
+
 <br>
