@@ -24,7 +24,11 @@
 </p>
 <br>
 
-
+ <a href="https://omkarsw2.github.io">
+  <br />  <br />  
+        <img align="center" src="https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio image" />
+ </a>
+  <br />  <br /> 
 
 <img src="https://imgs.search.brave.com/GIZVpntD8nBghn1rIX7k2fuiuNRVav8AVZ88d-MPnvg/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly93d3cu/YmFjYW5jeXRlY2hu/b2xvZ3kuY29tL2lt/Zy9tZXJuLWltZ3Mv/YmFubmVyMS5qcGc"/>
 <h2><i>Tech Stack</i></h2>
