@@ -58,8 +58,8 @@
     <a href="https://twitter.com/omkar21143">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=black" alt="https://twitter.com/omkar21143" />
     </a>
-    <a href="https://omkarsw2.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omkarsw2.github.io/" />
+<!--     <a href="https://omkarsw2.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omkarsw2.github.io/" /> -->
   
 </p>
 <br>
