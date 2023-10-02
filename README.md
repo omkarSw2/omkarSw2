@@ -5,9 +5,9 @@
  <br/></h2>
  
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  </h3>
+<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="https://omkarsw2.github.io/">
   <br />  <br />  
-        <img align="center" src="https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omkarsw2.github.io" /></h3>
+        <img align="center" src="https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omkarsw2.github.io/" /></h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -19,7 +19,6 @@
         <img src="https://img.shields.io/github/followers/omkarsw2?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
-  
 <br>
 
 
@@ -58,8 +57,8 @@
     <a href="https://twitter.com/omkar21143">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=black" alt="https://twitter.com/omkar21143" />
     </a>
-<!--     <a href="https://omkarsw2.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omkarsw2.github.io/" /> -->
+    <a href="https://omkarsw2.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://omkarsw2.github.io/" />
   
 </p>
 <br>
@@ -71,9 +70,5 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarSw2&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="vivekgoswami934" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarSw2&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="vivekgoswami934" height="139" />
-    
-</p> 
-  <img   src="https://streak-stats.demolab.com/?user=omkarSw2&theme=dark&github-readme-streak-stats.herokuapp.com"
-              alt="omkar-states"/>
-
+</p>
 <br>
