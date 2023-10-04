@@ -10,7 +10,7 @@
 
 
 <!-----------------------------------[![Portfolio](https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white)](https://github.com/omkarSw2 "Portfolio")------------------------------------> 
-portfolio:https://github.com/omkarSw2/omkarSw2/blob/main/README.md
+portfolio:https://omkarsw2.github.io
 
 
  
