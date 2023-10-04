@@ -10,7 +10,10 @@
 
 
 <!-----------------------------------[![Portfolio](https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white)](https://github.com/omkarSw2 "Portfolio")------------------------------------> 
-portfolio: [https://omkarsw2.github.io/](https://omkarsw2.github.io/)
+<!-----------------------------------portfolio: [https://omkarsw2.github.io/](https://omkarsw2.github.io/)/------------------------------------> 
+ 
+ <a href="https://omkarsw2.github.io/">portfolio</a>
+ 
 
 
  
