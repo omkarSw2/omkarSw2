@@ -9,7 +9,10 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white)](https://github.com/omkarSw2 "Portfolio")
+[![Portfolio](https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white)](https://github.com/omkarSw2 "Portfolio") :  [https://omkarsw2.github.io](https://omkarsw2.github.io/)
+  <br />  <br />  
+        <img align="center" src="https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio image" />
+ </a>
 
  
 
