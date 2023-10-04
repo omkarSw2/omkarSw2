@@ -4,13 +4,13 @@
 </p>
  <br/></h2>
  
- <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit. </h3>
+ <h3 align="centre">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
+<h3 align="centre">I dream to get recognized globally by something that I can do for my society. you can also visit. </h3>
 
 
 
 <!-----------------------------------[![Portfolio](https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white)](https://github.com/omkarSw2 "Portfolio")------------------------------------> 
-portfolio: https://omkarsw2.github.io/
+portfolio: [https://omkarsw2.github.io/](https://omkarsw2.github.io/)
 
 
  
