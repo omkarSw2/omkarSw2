@@ -6,11 +6,12 @@
  
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
 <h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit. </h3>
- <a href="https://omkarsw2.github.io">
+<!--  <a href="https://omkarsw2.github.io">
   <br />  <br />  
         <img align="center" src="https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio image" />
- </a>
-  <br />  <br />  
+ </a> -->
+ [Portfolio](https://github.com/omkarSw2)
+ 
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -18,6 +19,9 @@
     <a href="https://github.com/omkarSw2">
         <img src="https://komarev.com/ghpvc/?username=omkarsw2&label=Profile%20views&color=0e75b6&style=flat" alt="omkarsw2" />
     </a>
+  
+
+  
     <a href="https://github.com/omkarSw2?tab=followers">
         <img src="https://img.shields.io/github/followers/omkarsw2?label=Followers&style=social" alt="followers-count">
     </a>
