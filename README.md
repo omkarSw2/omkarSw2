@@ -3,13 +3,13 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
 </p>
  <br/></h2>
- 
  <h3 align="centre">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
 <h3 align="centre">I dream to get recognized globally by something that I can do for my society. you can also visit. </h3>
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white)](https://omkarsw2.github.io/)
-<!-----------------------------------portfolio: [https://omkarsw2.github.io/](https://omkarsw2.github.io/)/------------------------------------> 
+ <a href="https://omkarsw2.github.io">Portfolio</a>
+
+<!-----------------------------------[![Portfolio](https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white)](https://omkarsw2.github.io/)------------------------------------> 
  
  <!-----------------------------------<a href="https://omkarsw2.github.io/">portfolio</a>------------------------------------> 
  
