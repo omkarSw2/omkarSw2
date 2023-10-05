@@ -9,14 +9,6 @@
 
  <a href="https://omkarsw2.github.io/">Portfolio</a>
 
-<!-----------------------------------[![Portfolio](https://img.shields.io/badge/Portfolio-159202?style=for-the-badge&logo=ionic&logoColor=white)](https://omkarsw2.github.io/)------------------------------------> 
- 
- <!-----------------------------------<a href="https://omkarsw2.github.io/">portfolio</a>------------------------------------> 
- 
-
-
- 
-
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
