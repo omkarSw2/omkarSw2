@@ -7,9 +7,9 @@
 <h3 align="centre">I dream to get recognized globally by something that I can do for my society. you can also visit. </h3>
 
 
- <a href="https://omkarsw2.github.io/">Portfolio</a>
 
 <!----------------------------------- Profile View Section ------------------------------------>
+ <a href="https://omkarsw2.github.io/">Portfolio</a>
 
 <p align="left">
     <a href="https://github.com/omkarSw2">
